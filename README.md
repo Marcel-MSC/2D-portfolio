@@ -5,7 +5,7 @@
 https://kaboomjs.com/
 
 ##Tutorial to create your own 2D portfolio -> 
-https://www.youtube.com/watch?v=gwtfWORCN0U"
+https://www.youtube.com/watch?v=gwtfWORCN0U
 
 ## Creating this portfolio in 2D style games like pokemon or zelda of Nintendo games
 ### **It is my first attempt to create something like this**
