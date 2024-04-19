@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=gwtfWORCN0U
 #### Maybe someday
 
 ## Check the web deploy on netlify (mobile working)
-https://main--2d-portfolio-marcelomsc.netlify.app/
+https://2dportfoliomarcelomsc.netlify.app/
