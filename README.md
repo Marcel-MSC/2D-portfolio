@@ -12,5 +12,5 @@ https://www.youtube.com/watch?v=gwtfWORCN0U
 ### Always have a passion to games and it is a dream to create games as a professional
 #### Maybe someday
 
-## Check the web deploy on netlify (mobile working)
+## Check the web deploy on netlify (work in mobile too)
 https://2dportfoliomarcelomsc.netlify.app/
