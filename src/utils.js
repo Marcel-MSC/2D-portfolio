@@ -1,3 +1,5 @@
+import DOMPurify from "dompurify";
+
 export function displayDialogue(text, onDisplayEnd) {
     const dialogueUI = document.getElementById("textbox-container");
     const dialogue = document.getElementById("dialogue");
@@ -7,7 +9,7 @@ export function displayDialogue(text, onDisplayEnd) {
     const intervalRef = setInterval(() => {
         if (index < text.length) {
             currentText += text[index];
-            dialogue.innerHTML = currentText;
+            dialogue.innerHTML = DOMPurify.sanitize(currentText);
             index++;
             return;
         }
